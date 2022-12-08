@@ -1,0 +1,5 @@
+Item-Name  Quantity  Daily-Demand
+Tyre       500       20
+Oil        400       40
+Spray      200       60
+
